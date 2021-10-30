@@ -1,0 +1,34 @@
+body{
+    background-image:url("images/pexels-foteros-352505.jpg");
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: flex;
+    align-items: center;
+}
+.myDiv{
+    height: 500px;
+    width: 400px;
+    border: 5px outset;
+    border-color: aliceblue;
+    color: aliceblue;
+    background-origin: 2;
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+}
+span{
+    font-size: 100px;
+    color: seashell;
+    
+}
+h1{
+    color: red;
+    font-family: arial black;
+    font-size: 50px;
+    align-content: center;
+
+    
+
+}
